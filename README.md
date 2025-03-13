@@ -9,4 +9,7 @@ The dataset used for this analysis and visualization is hosted on [divvy bikes](
 You can run the SQL code directly using this link:  
 👉 [**Run SQL Code on MySQL**](https://www.db-fiddle.com/)  
 
-> _Note: Paste the SQL code in the provided environment to execute the queries._
+## 📊 Tableau Dashboard
+You can explore the interactive Tableau dashboard here:  
+👉 [**Bike Trip Analysis Dashboard**](https://public.tableau.com/authoring/BikesShare_17417945426040/Dashboard1#1)  
+
