@@ -49,5 +49,5 @@ FROM divvy_tripdata_2025_02
 
 ## 📊 Tableau Dashboard
 You can explore the interactive Tableau dashboard here:  
-👉 [*Bike Trip Analysis Dashboard*](https://public.tableau.com/authoring/BikesShare_17417945426040/Dashboard1#1)  
+👉 [*Bike Trip Analysis Dashboard*](https://public.tableau.com/app/profile/vincent.otieno7871/viz/BikesShare_17417945426040/Dashboard1)  
 
