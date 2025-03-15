@@ -4,7 +4,7 @@ In this hypothetical scenario, I take on the role of a data analyst working on t
 The dataset used for this analysis and visualization is hosted on [divvy bikes](https://divvy-tripdata.s3.amazonaws.com/index.html) website, the exact dataset accessible [here](https://divvy-tripdata.s3.amazonaws.com/202502-divvy-tripdata.zip)
 
 ## 📝 SQL Code
-👉 With the data, you can run the following SQl code block that I used
+👉 Below is the MySQL code block that I used with the data. Feel free to run it yourself!
 
 ```sql
 USE bikes_share_db;
