@@ -35,7 +35,23 @@ It further prompts for the creation of two more fields not in the original datas
 👉 Explore the interactive Tableau dashboard [**here**](https://public.tableau.com/app/profile/vincent.otieno7871/viz/BikesShare_17417945426040/Dashboard1)  
 
 - **Bike Type Preference**
+  
   The goal here was to show the distribution of users' preference of bike types (electric or classic) across membership type (annual member or casual user). The intention is to identify whether casual users prefer electric or classic bikes, which could help identify the strategy to convert them to annual members.
+
+  The side-by-side bar chart indicates that both types of users prefer electric bikes over classic. It implies that one of the viable strategies to improve the conversion of casual users to annual members would be to promote membership benefits tied to electric bikes 
+
+- **Trip Duration by Bike Type**
+
+  The goal here was to compare and visualize the spread and central tendency of trip durations for each bike type, and to assess the parameters by user type. The wider spread for classic bikes among casual users suggests varied trip usage among this group of users.
+  Additionally, with the median trip duration above 10 mins for both electric and classic bike use among casual users, a potential move would be to target long trips with incentives for this group.
+
+- **Trip Type Distribution**
+
+  The pie chart shows a distribution that suggests casual members mostly use the bikes for short trips, implying that one of the viable strategies to use to convert them to members would be to promote discounted prices for medium and long trips.
+
+- **Comparing Casual users vs Members Preferences**
+
+  The comparison chart suggests that, while both user types prefer electric bikes to classic bikes, they also prefer renting the bikes for short trips. One possible suggestion would be to increase promotion of medium and long trips, with incentives like discounted pricing, which could entice casual members to rent the bikes for longer trips, and eventually subscribe to annual membership.
 
 **[The dataset used for this analysis and visualization is hosted on [divvy bikes](https://divvy-tripdata.s3.amazonaws.com/index.html) website, with the exact dataset accessible [here](https://divvy-tripdata.s3.amazonaws.com/202502-divvy-tripdata.zip)]**
 
