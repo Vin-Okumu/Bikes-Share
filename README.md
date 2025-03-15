@@ -32,10 +32,10 @@ The query simply prompts MySQl to trim the dataset and only pick the fields: ***
 It further prompts for the creation of two more fields not in the original dataset: ***ride_duration***, *the time it took for each trip*, and ***duration_cat***, categorizing the trip into *short, medium or long* 
 
 ### 📊 Tableau Dashboard
-You can explore the interactive Tableau dashboard here:  
-👉 [*Cyclistic Bike-Share: Bike use preference*](https://public.tableau.com/app/profile/vincent.otieno7871/viz/BikesShare_17417945426040/Dashboard1)  
+👉 Explore the interactive Tableau dashboard [**here**](https://public.tableau.com/app/profile/vincent.otieno7871/viz/BikesShare_17417945426040/Dashboard1)  
 
-
+- **Bike Type Preference**
+  The goal here was to show the distribution of users' preference of bike types (electric or classic) across membership type (annual member or casual user). The intention is to identify whether casual users prefer electric or classic bikes, which could help identify the strategy to convert them to annual members.
 
 **[The dataset used for this analysis and visualization is hosted on [divvy bikes](https://divvy-tripdata.s3.amazonaws.com/index.html) website, with the exact dataset accessible [here](https://divvy-tripdata.s3.amazonaws.com/202502-divvy-tripdata.zip)]**
 
