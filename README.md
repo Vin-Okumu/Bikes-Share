@@ -1,4 +1,5 @@
-## 🚀 Cyclistic Bike Use Preference Visualization 🚲
+## 🚀 Cyclistic Bike-Share: Bike Use Preference Visualization 🚲
+#### Case Study: How would Cyclistic Bike-Share navigate speedy success?
 In this hypothetical scenario, I take on the role of a data analyst working on the marketing team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the underlying task is to understand how casual riders and annual members use Cyclistic bikes diŦferently, the insights expected to helP the marketing team design a new marketing strategy to convert casual riders into annual members. 
 
 In attempting to understand how casual riders use Cyclistic bikes differently compared to annual members, the best avenue is to visualize the different types of use. For this scenario, we opted to create a data viz on Tableau public. The charts settled on, and featured on the dashboard, *later shared*, aimed to visualize the following:
@@ -8,7 +9,7 @@ In attempting to understand how casual riders use Cyclistic bikes differently co
 - An overall comparison of of user preference
 
 
-#### 📝 SQL Code
+### 📝 SQL Code
 👉 Below is the query I used with the ***202502-divvy-tripdata*** on MySQL query. Feel free to run it yourself!
 
 
@@ -30,9 +31,9 @@ LIMIT 1000
 The query simply prompts MySQl to trim the dataset and only pick the fields: ***ride_id, rideable_type, member_casual*** 
 It further prompts for the creation of two more fields not in the original dataset: ***ride_duration***, *the time it took for each trip*, and ***duration_cat***, categorizing the trip into *short, medium or long* 
 
-#### 📊 Tableau Dashboard
+### 📊 Tableau Dashboard
 You can explore the interactive Tableau dashboard here:  
-👉 [*Cyclistic Bike Use Preference Visualization*](https://public.tableau.com/app/profile/vincent.otieno7871/viz/BikesShare_17417945426040/Dashboard1)  
+👉 [*Cyclistic Bike-Share: Bike Use Preference Visualization*](https://public.tableau.com/app/profile/vincent.otieno7871/viz/BikesShare_17417945426040/Dashboard1)  
 
 
 
