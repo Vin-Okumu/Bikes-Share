@@ -10,7 +10,7 @@ In attempting to understand how casual riders use Cyclistic bikes differently co
 
 
 ### 📝 SQL Code
-👉 Below is the query I used with the ***202502-divvy-tripdata*** on MySQL query. Feel free to run it yourself!
+👉 Below is the query I used with the ***divvy_tripdata_2025_02*** on MySQL. Feel free to run it yourself!
 
 
 
@@ -33,7 +33,7 @@ It further prompts for the creation of two more fields not in the original datas
 
 ### 📊 Tableau Dashboard
 You can explore the interactive Tableau dashboard here:  
-👉 [*Cyclistic Bike-Share: Bike Use Preference Visualization*](https://public.tableau.com/app/profile/vincent.otieno7871/viz/BikesShare_17417945426040/Dashboard1)  
+👉 [*Cyclistic Bike-Share: Bike use preference*](https://public.tableau.com/app/profile/vincent.otieno7871/viz/BikesShare_17417945426040/Dashboard1)  
 
 
 
