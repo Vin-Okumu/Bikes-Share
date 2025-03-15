@@ -1,8 +1,8 @@
 ## 🚀 Cyclistic Bike-Share: Bike Use Preference Visualization 🚲
 #### Case Study: How would Cyclistic Bike-Share navigate speedy success?
-In this hypothetical scenario, I take on the role of a data analyst working on the marketing team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the underlying task is to understand how casual riders and annual members use Cyclistic bikes diŦferently, the insights expected to helP the marketing team design a new marketing strategy to convert casual riders into annual members. 
+In this hypothetical scenario, I take on the role of a data analyst working on the marketing team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the underlying task is to understand how casual riders and annual members use Cyclistic bikes differently, the insights expected to help the marketing team design a new marketing strategy to convert casual riders into annual members. 
 
-In attempting to understand how casual riders use Cyclistic bikes differently compared to annual members, the best avenue is to visualize the different types of use. For this scenario, we opted to create a data viz on Tableau public. The charts settled on, and featured on the dashboard, *later shared*, aimed to visualize the following:
+In attempting to understand how casual riders use Cyclistic bikes differently compared to annual members, the best avenue is to visualize the different types of use. For this scenario, I opted to create a data viz on Tableau public. The charts featured on the dashboard, *shared later in the write-up*, aimed to visualize:
 - Bike type preference by type of user *casual rider or annual member*
 - The average trip duration for each user type by bike type, *electric or classic bike*
 - The distribution of trip type, *short, medium or long trip*, for each user type
