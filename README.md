@@ -20,7 +20,7 @@ In attempting to understand how casual riders use Cyclistic bikes differently co
 
 ```sql
 SELECT 
-   ride_id,
+   ride_id AS trip_id,
    rideable_type AS bike_type,  
    member_casual AS user_type,
    started_at AS trip_start,
@@ -30,7 +30,7 @@ SELECT
      WHEN TIMESTAMPDIFF(MINUTE, started_at, ended_at) < 10 THEN 'short'
      WHEN TIMESTAMPDIFF(MINUTE, started_at, ended_at) BETWEEN 10 AND 20 THEN 'medium'
      ELSE 'long'
-     END AS trip_type,
+     END AS trip_type
 FROM divvy_tripdata_2025_02
 LIMIT 1000
 ```
