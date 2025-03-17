@@ -21,14 +21,16 @@ In attempting to understand how casual riders use Cyclistic bikes differently co
 ```sql
 SELECT 
    ride_id,
-   rideable_type,  
-   member_casual,
-   TIMESTAMPDIFF(MINUTE, started_at, ended_at) AS ride_duration,
+   rideable_type AS bike_type,  
+   member_casual AS user_type,
+   started_at AS trip_start,
+   ended_at AS trip_end
+   TIMESTAMPDIFF(MINUTE, started_at, ended_at) AS trip_duration,
    CASE
      WHEN TIMESTAMPDIFF(MINUTE, started_at, ended_at) < 10 THEN 'short'
      WHEN TIMESTAMPDIFF(MINUTE, started_at, ended_at) BETWEEN 10 AND 20 THEN 'medium'
      ELSE 'long'
-     END AS duration_cat,
+     END AS trip_type,
 FROM divvy_tripdata_2025_02
 LIMIT 1000
 ```
