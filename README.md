@@ -60,5 +60,5 @@ It further prompts for the creation of two more fields not in the original datas
   The comparison chart suggests that, while both user types prefer electric bikes to classic bikes, they also prefer renting the bikes for short trips. One possible suggestion would be to increase promotion of medium and long trips, with incentives like discounted pricing, which could entice casual members to rent the bikes for longer trips, and eventually subscribe to annual membership.
 
 
-**[The dataset used for this analysis and visualization is hosted on [divvy bikes](https://divvy-tripdata.s3.amazonaws.com/index.html) website, with the exact dataset accessible [here](https://divvy-tripdata.s3.amazonaws.com/202502-divvy-tripdata.zip)]**
+**[The dataset used for this analysis and visualization is hosted on [divvy bikes](https://divvy-tripdata.s3.amazonaws.com/index.html), with the exact dataset accessible [here](https://divvy-tripdata.s3.amazonaws.com/202502-divvy-tripdata.zip)]**
 
