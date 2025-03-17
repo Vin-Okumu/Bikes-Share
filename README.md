@@ -24,7 +24,7 @@ SELECT
    rideable_type AS bike_type,  
    member_casual AS user_type,
    started_at AS trip_start,
-   ended_at AS trip_end
+   ended_at AS trip_end,
    TIMESTAMPDIFF(MINUTE, started_at, ended_at) AS trip_duration,
    CASE
      WHEN TIMESTAMPDIFF(MINUTE, started_at, ended_at) < 10 THEN 'short'
